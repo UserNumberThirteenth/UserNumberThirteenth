@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @UserNumberThirteenth
 - 👀 I’m interested in App building and Developing
 - 🌱 I’m currently learning Kotlin
+- My Codewars profile : https://www.codewars.com/users/rathakhet1
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
